@@ -2,8 +2,6 @@ body
 {
 	background: rgb(255, 0, 0);
 	background-image: url("BACK.png");
-	
-	
 }
 
 	.login_div1 , .login_div2
@@ -42,13 +40,4 @@ body
 #word_display
 {
 	letter-spacing: 5px;
-}
-#output
-{
-background: white;
-border-radius: 10px;
-border-top: 10px solid #AA4465;
-padding: 10px;
-float: none;
-text-align: left;
 }
